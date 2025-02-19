@@ -1,0 +1,47 @@
+15:48:08.519 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Test Case Execution Started  *********
+15:48:08.595 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On MyAccount Link Successfully  *********
+15:48:09.219 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On Register Page Link Successfully  *********
+15:48:22.922 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Test Case Execution Started  *********
+15:48:23.003 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On MyAccount Link Successfully  *********
+15:48:23.688 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On Register Page Link Successfully  *********
+15:48:24.055 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Fill all the User Info Successfully  *********
+15:48:24.703 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On Continue Btn Successfully  *********
+15:48:24.735 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** verifyAccountRegistration Test Case Passed Successfully  *********
+15:48:31.205 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Test Case Execution Started  *********
+15:48:31.475 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On MyAccount Link Successfully  *********
+15:48:31.990 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On Register Page Link Successfully  *********
+15:50:50.778 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Indrajitk\eclipse-workspace\OpenCart_HybridFrameWork\parallel_testing_testng.xml
+
+15:50:54.530 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Test Case Execution Started  *********
+15:50:54.607 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On MyAccount Link Successfully  *********
+15:50:55.200 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On Register Page Link Successfully  *********
+15:51:08.346 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Test Case Execution Started  *********
+15:51:08.459 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On MyAccount Link Successfully  *********
+15:51:09.028 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On Register Page Link Successfully  *********
+15:51:25.503 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Test Case Execution Started  *********
+15:51:25.808 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On MyAccount Link Successfully  *********
+15:51:26.370 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On Register Page Link Successfully  *********
+15:54:49.828 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Indrajitk\eclipse-workspace\OpenCart_HybridFrameWork\parallel_testing_testng.xml
+
+15:54:55.198 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******  Test Case Execution Started  *********
+15:54:55.727 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On MyAccount Link Successfully  *********
+15:54:55.915 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******  Test Case Execution Started  *********
+15:54:55.997 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On MyAccount Link Successfully  *********
+15:54:56.381 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On Register Page Link Successfully  *********
+15:54:56.688 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On Register Page Link Successfully  *********
+15:54:56.804 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******  Test Case Execution Started  *********
+15:54:57.099 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On MyAccount Link Successfully  *********
+15:54:57.666 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On Register Page Link Successfully  *********
+16:52:12.160 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Indrajitk\eclipse-workspace\OpenCart_HybridFrameWork\master_testng.xml
+
+16:52:16.885 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Test Case Execution Started  *********
+16:52:16.977 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On MyAccount Link Successfully  *********
+16:52:17.707 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On Register Page Link Successfully  *********
+16:53:14.281 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Indrajitk\eclipse-workspace\OpenCart_HybridFrameWork\master_testng.xml
+
+16:53:18.478 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Test Case Execution Started  *********
+16:53:18.603 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On MyAccount Link Successfully  *********

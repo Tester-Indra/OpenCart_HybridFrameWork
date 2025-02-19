@@ -1,0 +1,45 @@
+22:30:27.258 [main] INFO  testCases.TC003_LoginTestDDT - *********   Test Case TC003_LoginTestDDT Started   ********* 
+22:30:39.222 [main] INFO  testCases.TC003_LoginTestDDT - *********   Test Case TC003_LoginTestDDT Started   ********* 
+22:30:52.533 [main] INFO  testCases.TC003_LoginTestDDT - *********   Test Case TC003_LoginTestDDT Completed Successfully   ********* 
+22:19:26.010 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Indrajitk\eclipse-workspace\OpenCart_HybridFrameWork\grouping_testng.xml
+
+22:19:56.167 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Indrajitk\eclipse-workspace\OpenCart_HybridFrameWork\grouping_testng.xml
+
+22:24:09.935 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Indrajitk\eclipse-workspace\OpenCart_HybridFrameWork\grouping_testng.xml
+
+22:24:15.709 [main] INFO  testCases.TC002_LoginTest - *********   Test Case TC002_LoginTest Started   ********* 
+22:24:17.748 [main] INFO  testCases.TC002_LoginTest - *********   Test Case TC002_LoginTest Passed Successfully   ********* 
+22:24:21.576 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Test Case Execution Started  *********
+22:24:21.689 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On MyAccount Link Successfully  *********
+22:24:22.333 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On Register Page Link Successfully  *********
+22:24:22.708 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Fill all the User Info Successfully  *********
+22:24:23.536 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On Continue Btn Successfully  *********
+22:24:24.093 [main] INFO  testCases.TC001_AccountRegistrationTest - **********   click on Logout Btn Successfully   *******************
+22:24:24.094 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** verifyAccountRegistration Test Case Passed Successfully  *********
+00:05:25.247 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Indrajitk\eclipse-workspace\OpenCart_HybridFrameWork\grouping_testng.xml
+
+00:05:30.953 [main] INFO  testCases.TC002_LoginTest - *********   Test Case TC002_LoginTest Started   ********* 
+00:05:32.724 [main] INFO  testCases.TC002_LoginTest - *********   Test Case TC002_LoginTest Passed Successfully   ********* 
+00:05:36.363 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Test Case Execution Started  *********
+00:05:36.474 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On MyAccount Link Successfully  *********
+00:05:37.094 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On Register Page Link Successfully  *********
+00:05:37.492 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Fill all the User Info Successfully  *********
+00:05:38.203 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On Continue Btn Successfully  *********
+00:05:38.742 [main] INFO  testCases.TC001_AccountRegistrationTest - **********   click on Logout Btn Successfully   *******************
+00:05:38.747 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** verifyAccountRegistration Test Case Passed Successfully  *********
+16:31:52.210 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Indrajitk\eclipse-workspace\OpenCart_HybridFrameWork\grouping_testng.xml
+
+16:32:09.932 [main] INFO  testCases.TC002_LoginTest - *********   Test Case TC002_LoginTest Started   ********* 
+16:32:11.943 [main] INFO  testCases.TC002_LoginTest - *********   Test Case TC002_LoginTest Passed Successfully   ********* 
+16:32:16.520 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Test Case Execution Started  *********
+16:32:16.600 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On MyAccount Link Successfully  *********
+16:32:17.238 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On Register Page Link Successfully  *********
+16:32:17.660 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Fill all the User Info Successfully  *********
+16:32:18.296 [main] INFO  testCases.TC001_AccountRegistrationTest - ******  Click On Continue Btn Successfully  *********
+16:32:18.726 [main] INFO  testCases.TC001_AccountRegistrationTest - **********   click on Logout Btn Successfully   *******************
+16:32:18.726 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** verifyAccountRegistration Test Case Passed Successfully  *********
